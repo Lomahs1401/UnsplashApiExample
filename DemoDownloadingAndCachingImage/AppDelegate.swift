@@ -7,10 +7,10 @@
 
 import UIKit
 
+let accessKey = "kYdwrR2D2KoVur57MyppYdB2hqxUJSPBCKEAvg2e__M"
+
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
-
-
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
